@@ -1,0 +1,23 @@
+{
+  "name": "cphcamp-deploy-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandu87/CPHCamp-production-version.git"
+  },
+  "author": "chandu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandu87/CPHCamp-production-version/issues"
+  },
+  "homepage": "https://github.com/chandu87/CPHCamp-production-version#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
